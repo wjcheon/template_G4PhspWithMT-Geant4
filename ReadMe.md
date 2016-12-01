@@ -20,7 +20,7 @@ Fig.1 the shape of beam which was reconstructed from output files using in-house
 The details of this code was writted in **"http://beanexpert.tistory.com/entry/Geant4-Primary-generator-using-PhaseSpace-File-with-MT"**
 
 
-date: 2016.12.1
+date: 2016.12.1  
 All rights of "template_G4PhspWithMT" reserved to wjcheon.  
 If you have any question for this code, please send the e-mail to me.  
 
