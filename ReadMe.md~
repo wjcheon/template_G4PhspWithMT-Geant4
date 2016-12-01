@@ -17,7 +17,7 @@ The Geant4 code is a simulation about scintillator.
 Fig.1 the shape of beam which was reconstructed from output files using in-house Matlab code   
 
 ### Details 
-The details of this code was writted in **"http://beanexpert.tistory.com/entry/Geant4-Primary-generator-using-PhaseSpace-File-with-MT"**
+The details of this code was writted in "http://beanexpert.tistory.com/entry/Geant4-Primary-generator-using-PhaseSpace-File-with-MT"
 
 
 date: 2016.12.1
