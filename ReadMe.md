@@ -1,5 +1,5 @@
 ## About this code  
-The Geant4 code is a simulation about scintillator.
+This Geant4 code is performed with **Multi-Thread mode**, and The primary particle sources are readed from **Phase shace file**.  
 
 ### Geometry  
 1) World  
